@@ -3,7 +3,7 @@ import java.net.*;
 import java.util.Scanner;
 import java.io.*;
 
-public class AM37CGPAClient {
+public class AM47CGPAClientFinal{
     public static void main(String args[]) throws IOException {
         Scanner userInput = new Scanner(System.in);
         // Open your connection to a server, at port 1234

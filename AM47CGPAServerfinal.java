@@ -2,7 +2,7 @@
 import java.net.*;
 import java.io.*;
 
-public class AM37CGPAServer {
+public class AM47CGPAServerfinal {
     public static void main(String args[]) throws IOException {
         // Register service on port 1234
         ServerSocket s = new ServerSocket(1234);
